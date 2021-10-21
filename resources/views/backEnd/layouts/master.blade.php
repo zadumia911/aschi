@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Sparkdelivery || @yield('title','Dashbaord')</title>
+  <title>Aschi || @yield('title','Dashbaord')</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Font Awesome -->
@@ -101,7 +101,7 @@
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="{{url('/superadmin/dashboard')}}" class="brand-link">
-      <span class="brand-text font-weight-light">Sparkdelivery</span>
+      <span class="brand-text font-weight-light">Aschi</span>
     </a>
 
     <!-- Sidebar -->
@@ -393,7 +393,7 @@
   <div class="search-product-inner" id="live_data_show"></div> 
 
   <footer class="main-footer">
-    <strong>Copyright &copy;<a href="{{url('/')}}">Sparkdelivery</a></strong>
+    <strong>Copyright &copy;<a href="{{url('/')}}">Aschi</a></strong>
     All rights reserved.
   </footer>
 
